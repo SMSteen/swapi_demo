@@ -6,3 +6,7 @@
 h3:hover {
 	cursor: pointer;
 }
+#people p span{
+	color: #0066cc;
+	font-weight: bold;
+}
